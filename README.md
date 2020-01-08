@@ -17,6 +17,8 @@ A co-operative card game of improvised stories and escaping ridiculous situation
       - [Result](#result)
       - [Consequences](#consequences)
       - [Continue](#continue)
+    - [Game Variants](#game-variants)
+      - [Players choose item cards](#players-choose-item-cards)
 
 ## What's in the Box
 
@@ -29,11 +31,11 @@ play tests in the [resources](RESOURCES.md).
 
 Hello Derek, you're just another person, living the life of a person.
 
-> Place the **Derek Card** in the middle of the table, place 6 **Health Tokens** on the card
+> Place the **Health Cards** in the middle of the table, stacked from 1-10 with 10 on top. This is Derek's health. To make the game harder start with fewer **Health Cards** e.g. 1-7.
 
 You're a fancy man Derek, you're house has lots of rooms.
 
-> Shuffle the **Room Cards** and place them face down in the center of the table. This is the **Room Deck**
+> Shuffle the **Room Cards** and randomly select 20 cards to make up the **Room Deck**. Place this deck face down in the center of the table. To make the game shorter or longer add/remove **Room Cards**.
 
 You've just arrived home from a long day at your job as an accountant. You open your front door and step in. Oh no, the door behind you closes and you’ve entered the mad house!
 
@@ -41,7 +43,7 @@ On encountering the shear madness of the mad house, your split personalities sta
 
 > Shuffle the **Personality Cards** and place the pile face down in the middle of the table. This is the **Personality Deck**.
 >
-> Distribute one of each **Reaction Card** to every player.
+> Give each player a full set of **Reaction Cards**. A whole set is identified by a unique colour.
 
 Derek, you better find your way out of this place. It looks dangerous and full of strange things.
 
@@ -107,11 +109,13 @@ Wow, Derek, wow. What a fascinating way of trying to exit the room. Let's see ho
 
 #### Consequences
 
-Great, you now know has successful you were. What happened?
+Great, you now know how successful you were. What happened?
 
-> Match your **Result** with the **Consequence** on the **Room Card**, and follow the instructions
+> Match your **Result** with the **Consequence** on the **Room Card**, and follow the instructions.
 >
-> If there are no more **Health Tokens** on the **Derek Card**, Derek has died and every player loses the game.
+> When an instructions says -1 health, you take 1 **Health Card** off of the **HEalth Deck** showing the number below. If you are adding **Health Cards**, do the reverse.
+>
+> If there are no more **Health Cards** on the **Derek Card**, Derek has died and every player loses the game.
 >
 > If the **Consequence** says you have exited the mad house, you have won! Congratulations.
 >
@@ -130,3 +134,11 @@ Well, at least that room is over, now Derek, you should try the next door and se
 > The player clockwise of the **Active Player**, becomes the new **Active Player**
 >
 > Start the **Round** again.
+
+### Game Variants
+
+#### Players choose item cards
+
+During the setup hand each player 5 random item cards. Instead of randomly drawing an **Item Card**, the **Next Active Player** gets to pick 2 from their hand of **Item Cards** instead for the **Active Player** to use in their **Narration**.
+
+At the end of the round any **Item Cards** that were played get discarded and every player draws back up to 5 **Item Cards**.
