@@ -31,7 +31,7 @@ play tests in the [resources](RESOURCES.md).
 
 Hello Derek, you're just another person, living the life of a person.
 
-> Place the **Health Cards** in the middle of the table, stacked from 1-10 with 10 on top. This is Derek's health. To make the game harder start with fewer **Health Cards** e.g. 1-7.
+> Place the **Health Cards** in the middle of the table, stacked from 1-9 with 9 on top. This is Derek's health. To make the game harder start with fewer **Health Cards** e.g. 1-7.
 
 You're a fancy man Derek, you're house has lots of rooms.
 
@@ -47,9 +47,9 @@ On encountering the shear madness of the mad house, your split personalities sta
 
 Derek, you better find your way out of this place. It looks dangerous and full of strange things.
 
-> Randomly pick an **Exit Card** and place it on the bottom of the **Room Deck**.
+> Randomly draw the same number of **Exit Cards** as you have **Health Cards** and place them on the bottom of the **Room Deck**.
 >
-> You're objective is to progress through every **Room Card** in the **Room Deck** until you get to and resolve the **Exit Card**.
+> You're objective is to progress through every **Room Card** in the **Room Deck** until you get to and resolve an **Exit Card**. Any time you fail an **Exit Card** you always lose health, which is why you only need the same number of **Exit Cards** as you have **Health Cards**.
 >
 > Pick a the person who did the craziest thing today to be the first **Active Player**.
 
