@@ -8,7 +8,6 @@ A co-operative card game of improvised stories and escaping ridiculous situation
 
 - [Escape the Mad House](#escape-the-mad-house)
   - [Table of Contents](#table-of-contents)
-  - [What's in the Box](#whats-in-the-box)
   - [Rules](#rules)
     - [Setup](#setup)
     - [Round](#round)
@@ -19,11 +18,6 @@ A co-operative card game of improvised stories and escaping ridiculous situation
       - [Continue](#continue)
     - [Game Variants](#game-variants)
       - [Players choose item cards](#players-choose-item-cards)
-
-## What's in the Box
-
-The game is currently in a prototype phase, you can find the current game content used for these
-play tests in the [resources](RESOURCES.md).
 
 ## Rules
 
@@ -59,9 +53,9 @@ Derek, you better find your way out of this place. It looks dangerous and full o
 
 The trauma of the mad house has triggered one of your split personalities to come out.
 
-> The **Active Player** draws a **Personality Card**, and keeps the contents of the card secret from all other players.
+> The **Active Player** draws 2 **Personality Cards**, and keeps the contents of the cards secret from all other players. They choose 1 of the cards to be the **Personality Card** and shuffles the second card back with the other **Personality Cards**
 >
-> This card will specify a **Success Reaction** that the **Active Player** wants the **Non Active Players** to guess based off their **Narration**.
+> The chosen **Personality Card** will specify a **Success Reaction** that the **Active Player** wants the **Non Active Players** to guess based off their **Narration**.
 >
 > It will also have **Critical Fail Reaction** that they want to make sure the **Non Active Players** don't guess.
 >
